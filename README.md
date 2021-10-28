@@ -1,5 +1,5 @@
 # BIM-Buzzword-Bonanza
-Fun with the BIM Buzzwords we all know and love 🤣
+Something no one asked for or wanted, but is now available to all anyway 🤣
 
 #### Try your luck at the [BIM Buzzword Bonnanza](https://thebimsider.github.io/BIM-Buzzword-Bonanza/BIM-Buzzword/)   
 
