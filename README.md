@@ -3,4 +3,4 @@ Fun with the BIM Buzzwords we all know and love 🤣
 
 #### Try your luck at the [BIM Buzzword Bonnanza](https://thebimsider.github.io/BIM-Buzzword-Bonanza/BIM-Buzzword/)   
 
-![image info](./pictures/image.png)
+![image info](https://github.com/TheBIMsider/BIM-Buzzword-Bonanza/blob/main/BIM-Buzzword/icon/BBB.png)   
