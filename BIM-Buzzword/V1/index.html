@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>BIM Buzzword Bonanza</title>
+    <link rel="icon" href="icon/BIM.png" />
+  </head>
+  <body>
+    <div class="container">
+      <header>BIM Buzzword Bonanza</header>
+      <h1>
+        Hurry, Hurry Step Right Up <br />
+        And Find Your "Favorite" BIM Buzzword! <br />
+      </h1>
+      <h2>
+        (let be real its actually AEC buzzword or buzzwords but I liked the
+        alliteration) <br />
+      </h2>
+      <div class="square" id="square">
+        <div class="window" id="window">
+          <p id="buzzDisplay"></p>
+        </div>
+      </div>
+      <div class="button">
+        <button id="buzzBtn">What's My Buzzword!</button>
+      </div>
+      <!-- Footer section at page bottom -->
+      <footer>
+        Created with ❤ and a little 🤣 in 🍁 by
+        <a href="https://thebimsider.com/">The BIMsider</a>
+      </footer>
+    </div>
+    <script src="index.js"></script>
+  </body>
+  <script>
+    //Make older browser aware of new HTML5 layout tags
+    "header nav aside article footer section".replace(/\w+/g, function (n) {
+      document.createElement(n);
+    });
+  </script>
+</html>
