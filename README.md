@@ -5,6 +5,6 @@ Something no one asked for or wanted, but is now available to all anyway 🤣
 
 ![image info](https://github.com/TheBIMsider/BIM-Buzzword-Bonanza/blob/main/BIM-Buzzword/icon/BBB.png)   
 
-#### Try V1 [HERE](https://thebimsider.github.io/BIM-Buzzword-Bonanza/BIM-Buzzword/V1/) (just different UI)
+#### Try V1 [HERE](https://thebimsider.github.io/BIM-Buzzword-Bonanza/BIM-Buzzword/V1/) (just little different UI)
 
 ![image info](https://github.com/TheBIMsider/BIM-Buzzword-Bonanza/blob/main/BIM-Buzzword/V1/icon/BBB.png)  
