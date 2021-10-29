@@ -1,6 +1,4 @@
 body {
-  background-color: yellow;
-  background-image: url(icon/pattern8-pattern-07.gif);
   /* Default font styling */
   font: 10pt Arial, Helvetica, Sans-Serif;
   color: navy;
@@ -11,25 +9,24 @@ body {
   width: 90%;
   /* But don't go below 600px or above 1200px */
   min-width: 600px;
-  max-width: 1200px;
+  /*max-width: 1200px;*/
   margin: 1em auto;
-  background: #d4662ce6;
-  height: 95vh;
+  height: 90vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border-radius: 20px;
-  box-shadow: 8px 8px 8px black;
 }
 
 /*======== Styling for page header */
 header {
-  height: 100px;
+  height: 60px;
   /* Font size, line-height, and family */
-  font: 60px "Comic Sans MS", "Comic Sans", cursive;
+  font: 48px 'Courier New', Courier, monospace;
   text-align: center;
-  text-shadow: 2px 2px 2px white;
+  font-weight: 900;
+  color: #d4662c;
+  text-shadow: 3px 3px 3px navy;
 }
 
 .square {
@@ -50,7 +47,7 @@ header {
   text-align: center;
   padding: 0.5em;
   position: relative;
-  border: 10px solid navy;
+  border: 10px solid #d4662c;;
 }
 
 p {
@@ -79,13 +76,12 @@ button:hover {
 /*========================= More general style rules and classes */
 /* Style for h1 headings */
 h1 {
-  font: italic small-caps bold 30px "Comic Sans MS", "Comic Sans", cursive;
-  text-shadow: 1px 1px 1px white;
+  font: small-caps bold 28px Arial, Helvetica, Sans-Serif;
   text-align: center;
 }
 /* Style for h2 headings */
 h2 {
-  font: italic small-caps bold 18px "Comic Sans MS", "Comic Sans", cursive;
+  font: italic small-caps bold 16px Arial, Helvetica, Sans-Serif;
   text-align: center;
 }
 /* Style for paragraphs */
@@ -127,11 +123,11 @@ img.right {
 /* ==== Styles for links and link states. === */
 /* Unvisited links */
 a:link {
-  color: darkviolet;
+  color: navy
 }
 /* Visited links */
 a:visited {
-  color: yellow;
+  color: darkviolet;
 }
 /* Mouse pointer on link */
 a:hover {
